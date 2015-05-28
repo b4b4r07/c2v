@@ -4,10 +4,6 @@
 
 ## Description
 
-***DEMO:***
-
-![demo](url)
-
 When the code reading, if it is not syntax highlighting, we feel very painful. Therefore we use the text editor instead of `cat` and `less` when you see quickly the source code. Such case, it is preferable to use the pygments. This tool improves the usability of `pygmentize` which is a Command Line Interface of pygments.
 
 ## Requirement
@@ -53,11 +49,6 @@ $ echo $?
 For more information of the usage, see the following help `c2v --help`.
 
 ## Installation
-
-1. Download from [here]().
-2. Install to the directory in your `$PATH`.
-
-How to install for developers is:
 
 ```bash
 $ go get github.com/b4b4r07/c2v
